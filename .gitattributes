@@ -1,0 +1,3 @@
+code/** linguist-detectable=true
+doc/** linguist-documentation
+data/** linguist-vendored
